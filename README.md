@@ -1,6 +1,6 @@
 # Story generator
 
-Its just a test script for fun that makes stories :D
+Its just a test script on Python for fun that makes a stories :D
 
 Releases: https://github.com/UnMatveev/Story-generator/releases
 

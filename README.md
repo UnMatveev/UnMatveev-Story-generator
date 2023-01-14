@@ -1,4 +1,4 @@
-# Story creator
+# Story generator
 I download python yesterday, and just try to do something
 
 Its just a test script for fun that makes stories xD

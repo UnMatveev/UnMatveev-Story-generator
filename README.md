@@ -1,9 +1,12 @@
 # Story generator
 
-Its just a test code on Python for fun that makes a stories without AI :D
+Просто тестовый код который генерирует случайные истории без ИИ :D
 
-Releases: https://github.com/UnMatveev/Story-generator/releases
+Коды: https://github.com/UnMatveev/Story-generator/releases
 
-My discord server: https://discord.gg/un3g3bhvJ9
+Мой дискорд сервер: https://discord.gg/un3g3bhvJ9
 
-By the way, all code write in Russian, because this is my main language. In future, i will translate this code on another languages :)
+Пример (основан на версии 1.2.0):
+Это история про Олега, которому сейчас 19 лет.
+Он родился в Казахстане, а сейчас проживает в Киеве.
+в тот Прекрасный день, он подарил подарок Алексею, с тех пор, тот уважал Олега.

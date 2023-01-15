@@ -4,7 +4,7 @@
 
 Я скачал пайтон вчера, и начал по-тихоньку осваивать его. Данный код я делаю чисто на приколе, а также просто ради опыта
 
-Коды: https://github.com/UnMatveev/Story-generator/releases
+Релизы: https://github.com/UnMatveev/Story-generator/releases
 
 Мой дискорд сервер: https://discord.gg/un3g3bhvJ9
 
